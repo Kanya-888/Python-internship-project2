@@ -38,5 +38,4 @@ Python 3.10 or newer. No external packages are required.
 The program ignores letter case and removes standard punctuation.
 Common words such as "the" and "and" may dominate the results.
 
-##Author
-Palvadi Kanya Kusuma Priya InternCircle Python Programming Internship
+
